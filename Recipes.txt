@@ -3,4 +3,7 @@ welcome to our kitchen
 paster
 chicken stew
 
+beans
+cuscus
+
 Enjoy your meal
